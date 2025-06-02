@@ -4,3 +4,6 @@ user2 realizo una linea de codigo
 user2 realizo otra linea de codigo
 user2 realizo una tercer linea de codigo
 user3 realizo una cuarta linea de codigo
+user1 realizo una primera linea de codigo
+user1 realizo otra linea de codigo
+
